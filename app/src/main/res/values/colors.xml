@@ -1,0 +1,12 @@
+<resources>
+    <color name="mynichi_raspberry">#A82D52</color>
+    <color name="mynichi_coral">#F4A59C</color>
+    <color name="mynichi_pale_pink">#FFF4F2</color>
+    <color name="mynichi_plum">#38252D</color>
+    <color name="mynichi_blush">#FBE2E4</color>
+    <color name="mynichi_surface">#FFFBFA</color>
+    <color name="mynichi_muted">#765560</color>
+    <color name="mynichi_outline">#A67C89</color>
+    <color name="mynichi_outline_soft">#EBCBD1</color>
+    <color name="mynichi_track">#79223E</color>
+</resources>

@@ -7,5 +7,8 @@
         <item name="android:windowBackground">@color/mynichi_pale_pink</item>
         <item name="android:navigationBarColor">@color/mynichi_pale_pink</item>
         <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowSplashScreenBackground">@color/mynichi_pale_pink</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/mynichi_raspberry</item>
     </style>
 </resources>

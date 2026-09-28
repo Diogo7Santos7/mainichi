@@ -1,0 +1,4 @@
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/mynichi_raspberry" />
+    <foreground android:drawable="@drawable/ic_mynichi_foreground" />
+</adaptive-icon>
